@@ -93,4 +93,4 @@ To run this project, you will need to have the Java Development Kit (JDK) and Ap
 
 ## 👨‍💻 Author
 
-* **JoudN** - A third-year Computer Science student passionate about software development and database management.
+* **JoudN** - A Computer Science student passionate about software development and database management.
